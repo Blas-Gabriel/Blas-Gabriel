@@ -41,7 +41,7 @@ I'm Gabriel, junior fullstack JS developer. I learned self-taught programming wi
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-### Social & Contact
+### Contact & Social
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 gabrielhongrois@gmail.com
 
