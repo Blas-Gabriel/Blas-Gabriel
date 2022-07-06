@@ -9,7 +9,6 @@ I'm Gabriel, junior fullstack JS developer. I learned self-taught programming wi
 
 - HTML / CSS 
 - JavaScript ES6+
-- TypeScript
 - NodeJS
 - ReactJS, NextJS
 - NPM, Yarn
